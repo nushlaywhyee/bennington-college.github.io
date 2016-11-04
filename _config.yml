@@ -3,7 +3,7 @@ author: nushlaywhyee
 email: nushlaywhyee@bennington.edu
 description: > # this means to ignore newlines until "baseurl:"
   Site for The state of the United States democracy , Bennington College, Fall 2016
-baseurl: "/minima"
+# baseurl: "/minima"
 
 # Build settings
 markdown: kramdown
