@@ -1,9 +1,9 @@
 $( document ).ready(function() {
 
-	$('div').hover(
+	$('div').click(
 	  function() {
-	    $('div').css('background-color', 'grey');
-	    $('span').css('body-color', 'skyblue');
+	    $('div').css('background-color', 'yellow');
+	    $('div').css('body-color', 'skyblue');
 	  }
 	);
 
