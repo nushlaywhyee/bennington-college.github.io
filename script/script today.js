@@ -46,11 +46,11 @@ $( document ).ready(function() {
 
 		// if brightnessValue is less than 50
 		if ( brightness = 50% or > 50%) {
-		// change all typeface to white
+		// change all typeface to black 
 		}
 		// if brightnessValue is more than 50
 		if (brightness  = 50% or > 50%) {
-		// change all typeface to black
+		// change all typeface to white
 		}
 	// 
 
