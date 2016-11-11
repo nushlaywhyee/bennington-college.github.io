@@ -14,7 +14,7 @@ the world is look to us for leadership!
 President Omaba Once said "There's not a liberal America and a conservative America - there's the United States of America."  
 Although there are division within this election, one whould remember that UNitedt States of American is already Great. we do not need to proved or be told that we are great. We are already walking down the right path and we will keep doing the things that makes us the greatest nation in te world.
 
-A blockquote:
+
 
 > Should you think it breathed --- and had you the leisure to tell me, I should feel quick gratitude ---  
 > If I make the mistake --- that you dared to tell me --- would give me sincerer honor --- toward you --- 
@@ -31,20 +31,21 @@ To render an image, put an exclamation mark in front of a link to the image file
 A code block:
 
 ```js
-if ( honor.pawn() === honor ) {
+Please do not preach hit in this time of trial 
 	console.log(Object.getOwnPropertyNames(honor.prototype));
 }
 ```
 
-A list:
+A list: Remember that we all have diverse views 
 
 - Forgotten ideas
 - Commentaries
 - Dialogues
 
 
-{% comment %}
+It is our strenght in our diversity that makes us great
 Include an include:
 {% include my-themes-great-include.html %}
-{% endcomment %}
+![ people of the united state Picture ](/assets/people of the united states.jpg)
+
 
