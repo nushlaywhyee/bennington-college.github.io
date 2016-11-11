@@ -49,7 +49,7 @@ $( document ).ready(function() {
 		// change all typeface to white
 		}
 		// if brightnessValue is more than 50
-		if (saturationValue = 50% or > 50%) {
+		if (brightness  = 50% or > 50%) {
 		// change all typeface to black
 		}
 	// 
