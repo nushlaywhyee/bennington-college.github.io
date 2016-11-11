@@ -45,7 +45,6 @@ A list: Remember that we all have diverse views
 
 It is our strenght in our diversity that makes us great
 Include an include:
-{% include my-themes-great-include.html %}
 ![ people of the united state Picture ](/assets/people of the united states.jpg)
 
 
