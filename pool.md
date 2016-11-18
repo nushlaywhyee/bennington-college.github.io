@@ -35,11 +35,15 @@ var characters = {
 	}
 	// characters.newColor(blue);
 	// change the characters to a random color, using hsl values
-	newColor: function() { 
-	{ red: lime; }            /* color keyword   */
-	{ red: rgb(0 255 0); }    /* RGB range 0-255 */
-    { blue: rgb(0% 100% 0%); } /* RGB range 0%-100%
-    { color: rgb(0% 100% 0%); } /* RGB range 0%-200% */
+	newColor: function get_random_color() 
+{
+    var color = "";
+    for(var i = 0; i < 3; i++) {
+        var sub = Math.floor(Math.random() * 256).toString(16);
+        color += (sub.length == 1 ? "0" + sub : sub);
+    }
+    return "#" + color;
+}
 
 
 	}
