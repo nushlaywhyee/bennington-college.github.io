@@ -13,7 +13,11 @@ var characters = {
 		// var menu = ['•','◊','∆'];
 
 		// select random integer from 0-2
-		var dart = Math.random(2,1,1,2,2,1,1,2,2,1,1,2,2,1,1,2,1,2,1);
+		var dart = new Random();
+for (var i = 0; i < 10; i++) {
+    print(rng.nextInt(100));
+  }
+}
 		dart = Math.floor(dart* menu.length );
 		var character = menu[dart];
 
@@ -65,3 +69,10 @@ $('body').click( function(event) {
 	font-size: 60px;
 }
 </style>
+
+
+  var rng = new Random();
+  for (var i = 0; i < 10; i++) {
+    print(rng.nextInt(100));
+  }
+}
