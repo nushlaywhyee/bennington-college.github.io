@@ -10,7 +10,7 @@ var characters = {
 	count: 0,
 	appear: function(menu) {
 		// select a geometric char from array
-		// var menu = ['•','◊','∆'];
+		var menu = ['•','◊','∆'];
 
 		// select random integer from 0-2
 		var dart = new Random();
@@ -68,3 +68,4 @@ $('body').click( function(event) {
 ![ nature Picture ](/assets/nature.jpg)
 </script>
 
+![ nature Picture ](/assets/nature.jpg)
