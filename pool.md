@@ -57,55 +57,6 @@ $('body').click( function(event) {
 
 </script>
 
-	{
-	  num     _min, _max,  _sum;
-	  int     _nEle, _seed, _hLim;
-	  Random  _random;
-	  List    _rNAr;
-
-	  //getter
-	  List get randomNumberAr => _rNAr;
-
-	  num _randomN() {
-	    int r0 = _random.nextInt(_hLim);
-	    int r1 = _random.nextInt(_hLim);
-	    int r2 = _random.nextInt(_hLim);
-	    int r3 = _random.nextInt(_hLim);
-
-	    num rslt = _min + (r0 + r1 + r2 + r3) / 4000.0;  //Add the OS back in...
-	    _sum += rslt; //#DEBUG ONLY
-	    return( rslt );
-	  }
-
-	  RandomNormal(this._nEle, this._min, this._max, [this._seed = null]) {
-	    if (_seed == null ) {
-	      Random r = new Random();
-	      _seed    = r.nextInt(1000);
-	    }
-	    _hLim   = (_max - _min).ceil() * 1000;
-	    _random = new Random(_seed);
-	    _rNAr   = [];
-	    _sum    = 0;//#DEBUG ONLY
-
-	    h2("RandomNormal with k: ${_nEle}, Seed: ${_seed}, Min: ${_min}, Max: ${_max}");//#DEBUG ONLY
-	    for(int n = 0; n < _nEle; n++ ){
-	      num randomN = _randomN();
-	      //p("randomN  = ${randomN}");
-	      LIST_add( _rNAr, randomN );
-	    }
-
-	    h3("Mean = ${_sum/_nEle}");//#DEBUG ONLY
-	  }
-	}
-
-
-new RandomNormal(1000, 80, 120);
-new RandomNormal(1000, 80, 120);
-new RandomNormal(1000, 80, 120);
-new RandomNormal(1000, 80, 120);
-new RandomNormal(1000, 80, 120);
-new RandomNormal(1000, 80, 120);
-	new RandomNormal(1000, 80, 120);
 
 
 
