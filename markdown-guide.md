@@ -4,15 +4,17 @@ title: Markdown Guide
 permalink: /markdown/
 ---
 
-## Where do we go from here (h2)
+## Where do we go from here 
 
-### Remember that this election is not just about you, its about the future of our democracy (h3)
+### One of the most famous slogan over the course of 2016 was "make America great again."
 
-Remember that this election is not just about you, its about the future of our democracy   
-the world is look to us for leadership!
+Was Ameria ever great? If so, what makes Amarica great?
+
+Remember that this election was not just about you and I; instead, it was about the future of our democracy, it was strength of diversity, and most importantly it was about the world we envision for the next generation of Americans.     
+America is the undisputed undisputed heavyweight champion of the world, we are the leader of the free world, and a superpower unique from previous world powers. Leadership comes with a lot of responsibilities and every political decision we make have an impact on the world around us. As a superpowerhe, the world is constantly watching our actions.
 
 President Omaba Once said "There's not a liberal America and a conservative America - there's the United States of America."  
-Although there are division within this election, one whould remember that UNitedt States of American is already Great. we do not need to proved or be told that we are great. We are already walking down the right path and we will keep doing the things that makes us the greatest nation in te world.
+Although there were division within this election, one should remember that it is normal to be divided over issues of politics and it is our diverse ideals that makes us great as a nation. we need not to proved or be told that we are great. We are already walking down the right path and by doing so, we will continue to the greatest nation in the world.
 
 
 
