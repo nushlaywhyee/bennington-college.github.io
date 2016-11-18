@@ -14,10 +14,6 @@ var characters = {
 
 		// select random integer from 0-2
 		var dart = new Random();
-for (var i = 0; i < 10; i++) {
-    print(rng.nextInt(100));
-  }
-}
 		dart = Math.floor(dart* menu.length );
 		var character = menu[dart];
 
@@ -36,28 +32,28 @@ for (var i = 0; i < 10; i++) {
 			{ top: destY, left: destX },
 		  	3000
 		);
-	}
+	},
 	// characters.newColor(blue);
 	// change the characters to a random color, using hsl values
-	newColor: function get_random_color() 
-{
-    var color = "";
-    for(var i = 0; i < 3; i++) {
-        var sub = Math.floor(Math.random() * 256).toString(16);
-        color += (sub.length == 1 ? "0" + sub : sub);
-    }
-    return "#" + color;
-}
+	newColor: function get_random_color() {
+	    var color = "";
+		    for(var i = 0; i < 3; i++) {
+		        var sub = Math.floor(Math.random() * 256).toString(16);
+		        color += (sub.length == 1 ? "0" + sub : sub);
+		    }
+		    return "#" + color;
+		}
 
 
 	}
-}
+};
+
 characters.appear(['•','◊','∆']);
 $('body').click( function(event) {
 	alert(event.pageX);
 	alert(event.pageY);
 	characters.move(event.pageX, event.pageY, characters.count)
-})
+});
 
 </script>
 
@@ -71,8 +67,3 @@ $('body').click( function(event) {
 </style>
 
 
-  var rng = new Random();
-  for (var i = 0; i < 10; i++) {
-    print(rng.nextInt(100));
-  }
-}
