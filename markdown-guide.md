@@ -28,15 +28,12 @@ To render an image, put an exclamation mark in front of a link to the image file
 
 ![ Obama Picture ](/assets/image.jpg)
 
-A code block:
+Obama giving a speach
 
-```js
-Please do not preach hit in this time of trial 
-	console.log(Object.getOwnPropertyNames(honor.prototype));
-}
-```
 
-A list: Remember that we all have diverse views 
+If you're walking down the right path and you're willing to keep walking, eventually you'll make progress.
+
+ Remember that we all have diverse views 
 
 - Forgotten ideas
 - Commentaries
