@@ -9,10 +9,10 @@ permalink: /pool/
 var characters = {
 	count: 0,
 	appear: function(menu) {
-		// select a geometric char from array
+		 select a geometric char from array
 		var menu = ['•','◊','∆'];
 
-		/ select random integer from 0-2
+		// select random integer from 0-2
 		var dart = new Random();
 		dart = Math.floor(dart* menu.length );
 		var character = menu[dart];
