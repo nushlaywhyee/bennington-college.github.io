@@ -54,8 +54,6 @@ $('body').click( function(event) {
 	alert(event.pageY);
 	characters.move(event.pageX, event.pageY, characters.count)
 });
-![ people of the united state Picture ](/assets/nature.jpg)
-</script>
 
 
 
@@ -67,4 +65,6 @@ $('body').click( function(event) {
 }
 </style>
 
+![ nature Picture ](/assets/nature.jpg)
+</script>
 
