@@ -18,7 +18,5 @@ permalink: /pool/
 	// #image_button listens for click, places image
 	$( "#image_button" ).click( content.image.place );
 
-	// img elements listen for click, change to 70% width
-    $( "#image_button" ).click( width", "70%);
-
+	
 </script>
