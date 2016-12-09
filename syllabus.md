@@ -1,4 +1,7 @@
-
+layout: page
+title: syllabus
+permalink: /syllabus/
+---
   html, body, #area, #sky {
   width: 100%;
   height: 100%;
