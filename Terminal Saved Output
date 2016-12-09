@@ -1,0 +1,32 @@
+Last login: Tue Dec  6 10:24:42 on ttys000
+bcdm52461:~ student$ cd /Users/student/GitHub/nushlaywhyee.github.io 
+bcdm52461:nushlaywhyee.github.io student$ jekyll serve
+Configuration file: /Users/student/GitHub/nushlaywhyee.github.io/_config.yml
+Configuration file: /Users/student/GitHub/nushlaywhyee.github.io/_config.yml
+            Source: /Users/student/GitHub/nushlaywhyee.github.io
+       Destination: /Users/student/GitHub/nushlaywhyee.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.137 seconds.
+ Auto-regeneration: enabled for '/Users/student/GitHub/nushlaywhyee.github.io'
+Configuration file: /Users/student/GitHub/nushlaywhyee.github.io/_config.yml
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+[2016-12-06 10:26:57] ERROR `/favicon.ico' not found.
+      Regenerating: 1 file(s) changed at 2016-12-06 10:34:20 ...done in 0.118765 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 10:40:53 ...done in 0.108684 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 10:54:24 ...done in 0.120488 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:14:44 ...done in 0.105406 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:14:47 ...done in 0.110851 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:27:38 ...done in 0.11332 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:30:09 ...done in 0.114437 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:31:12 ...done in 0.10803 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:32:47 ...done in 0.112168 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:34:17 ...done in 0.113974 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:38:37 ...done in 0.125466 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:41:06 ...done in 0.111151 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:43:42 ...done in 0.127504 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:43:42 ...done in 0.122444 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:43:47 ...done in 0.09572 seconds.
+      Regenerating: 1 file(s) changed at 2016-12-06 11:43:48 ...done in 0.121573 seconds.
+
